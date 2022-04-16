@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @MisterX1010.
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on data science projects.
-- 📫 How to reach me...
-                    x = don't
-                    print(x)
+- 👋 Hello, My name is Gregory Raphael Jr. Currently I am preparing for a role in Herndon, VA as an Azure Administrator.
+- 👀 I’m interested in developing security centric enterprise solutions.
+- 🌱 I’m currently preparing for my AZ-104 (Microsoft Azure Administrator Associate).
+- 💞️ I’m looking to collaborate on developing enterprise solutions in Azure and AWS.
+- 📫 How to reach me - 
+                      - Mobile - (904) 422-9010
+                      - Email - gregoryraphael5@gmail.com
+                      - LinkedIn - https://bit.ly/3EkIq2p                   
+                   
+               
 
 <!--- ### jk gregoryraphael5@gmail.com
 
